@@ -1,0 +1,18 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Logs temporários
+*.log
+*.tmp
+
+# Node (caso adicione JS futuramente)
+node_modules/
+
+# Builds (caso use bundlers)
+dist/
+build/
