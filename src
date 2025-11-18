@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pseudo-elementos criativos</title>
+</head>
+<body>
+  <ul>
+    <li class="destaque">Café e amendoim</li>
+    <li class="melhor">Café e esfirra</li>
+    <li class="delicia">Café e pão com manteiga</li>
+    <li>Café com bolacha</li>
+    <li>Café e pipoca</li>
+  </ul>
+</body>
+</html>
